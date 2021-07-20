@@ -20,4 +20,6 @@ safe_seats = []
 hot_seats, safe_seats = rien_ne_va_plus(hot_seats, safe_seats)
 ``` 
 
-Enjoy!
+## Demo
+
+![The Recap Roulette demo gif](demo.gif)
